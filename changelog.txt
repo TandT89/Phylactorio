@@ -1,0 +1,17 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.2.0
+Date: 08.15.2020
+  Bugfixes:
+    - None
+  Changes:
+    - Updated art assets
+    - Updated Mage Onyx to need midnight essence to be mined
+    - Refactored Mage Onyx to Mage Onyx ore
+---------------------------------------------------------------------------------------------------
+Version: 0.1.0
+Date: 08.15.2020
+  Bugfixes:
+    - None
+  Changes:
+    - Added Midnight Essence fluid
+    - Added Mage Onyx ore

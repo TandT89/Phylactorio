@@ -41,6 +41,7 @@ data:extend(
             }
           }
         },
+        --walking_sound = sounds.oil,
         collision_box = {{ -1.4, -1.4}, {1.4, 1.4}},
         selection_box = {{ -0.5, -0.5}, {0.5, 0.5}},
         autoplace = resource_autoplace.resource_autoplace_settings{
@@ -78,9 +79,9 @@ data:extend(
         max_temperature = 10,
         heat_capacity = "0.05KJ",
         base_color = {r=0.24, g=0.09, b=0.78},
-        flow_color = {r=0.34, g=0.19, b=0.9},
+        flow_color = {r=0.34, g=0.19, b=0.5},
         icon = "__phylactorio__/graphics/icons/midnight-essence.png",
-        icon_size = 32,
+        icon_size = 64, icon_mipmaps = 4,
         auto_barrel = false,
         order = "a[fluid]-m[midnight-essence]",
         stack_size = 200
