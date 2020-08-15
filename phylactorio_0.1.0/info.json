@@ -1,0 +1,9 @@
+{
+    "name": "phylactorio",
+    "version": "0.1.0",
+    "title": "Phylactorio",
+    "author": "King Regulus, RoboRhino13, Szyfr",
+    "factorio_version": "1.0",
+    "dependencies": ["base >= 1.0"],
+    "description": "This mod adds in some wack magic shit."
+  }
