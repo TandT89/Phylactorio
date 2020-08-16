@@ -14,7 +14,7 @@ data:extend(
     { --Entity Declaration
         type = "resource",
         name = "mage-onyx-ore",
-        icon = "__phylactorio__/graphics/icons/mage-onyx-ore.png",
+        icon = "__phylactorio__/graphics/icons/items/mage-onyx-ore.png",
         icon_size = 32,
         flags = {"placeable-neutral"},
         category = "basic-solid",
@@ -102,14 +102,6 @@ data:extend(
         max_effect_alpha = 0.3,
         mining_visualisation_tint = {r = 0.814, g = 1.000, b = 0.499, a = 1.000}, -- #cfff7fff
         map_color = {r=0.2, g=0.03, b=0.2},
-    },
-    { --Item Declaration
-        type = "item",
-        name = "mage-onyx-ore",
-        icon = "__phylactorio__/graphics/icons/mage-onyx-ore.png",
-        icon_size = 32,
-        order = "a[mage-onyx-ore]",
-        stack_size = 200
-    },
+    }
 }
 )

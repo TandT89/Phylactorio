@@ -1,4 +1,14 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.3.0
+Date: 08.15.2020
+  Bugfixes:
+    - None
+  Changes:
+    - Added Scripture and Religious Demolition technologies
+    - Reorganized mod file structure
+    - Added Mage Onyx Plate and Unholy Hand Grenade
+    - Added crafting recipes for new items
+---------------------------------------------------------------------------------------------------
 Version: 0.2.0
 Date: 08.15.2020
   Bugfixes:
