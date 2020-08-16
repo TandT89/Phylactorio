@@ -1,11 +1,9 @@
-# Fuck
-
 # Phylactorio
-## The coolest mod you've ever seen
+## A mod for Factorio that adds magic and shit.
 ### We have no idea what we're doing.
 
 ### To-Do List
-- [ ] Mage Onyx
-   - [ ] Generation
-- [ ] Midnight Essence
-   - [ ] Generation
+- [X] Mage Onyx
+   - [X] Generation
+- [X] Midnight Essence
+   - [X] Generation
